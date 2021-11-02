@@ -1,0 +1,39 @@
+.container {
+  border: 2px solid black;
+  width: 190px;
+  padding: 25px;
+  background-color: rgb(227, 230, 233);
+}
+
+body{
+  /* transform: translate(-50%,-50%); */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+button {
+  margin: 5px;
+  padding: 5px;
+  font-weight: bold;
+  width: 30px;
+  color: white;
+  background-color: grey;
+}
+a {
+  color: white;
+}
+input {
+  border: 2px solid black;
+  padding: 3px;
+  background-color: greenyellow;
+  font-family: monospace;
+  font-weight: bold;
+  text-align: right;
+}
