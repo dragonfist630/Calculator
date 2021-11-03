@@ -18,11 +18,7 @@ body{
   margin: 0;
 }
 
-p{
-  font-weight: lighter;
-  color: red;
-  font-size: small;
-}
+
 button {
   margin: 5px;
   padding: 5px;
@@ -31,11 +27,9 @@ button {
   color: white;
   background-color: grey;
 }
-a {
-  color: white;
-}
+
 input {
-  border: 2px solid black;
+  border: 2px solid rgb(117, 76, 76);
   padding: 3px;
   background-color: greenyellow;
   font-family: monospace;
